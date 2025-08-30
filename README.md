@@ -64,7 +64,7 @@ Insurance companies often struggle to price premiums accurately due to the compl
 
 ## 📦 Project Structure
 SMART PREMIUM ANALYSIS/ │ ├── data.ipynb                  # Notebook for training and preprocessing ├── app.py                      # Streamlit app for prediction ├── smartpremium_model.pkl      # Final trained model (Random Forest) ├── smartpremium_scaler.pkl     # Scaler for numeric features ├── scaled_columns.pkl          # List of scaled columns ├── model_input_columns.pkl     # Final input columns after encoding ├── README.md                  
-# Project documentation
+
 
 ---
 
